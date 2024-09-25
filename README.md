@@ -1,2 +1,2 @@
 ## tentang isi repo ini
-    class objek
+   - class objek
